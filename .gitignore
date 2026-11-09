@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.ipynb_checkpoints/
+.vscode/
+ml/dataset/
+ml/models/
